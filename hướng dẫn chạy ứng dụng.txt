@@ -1,0 +1,4 @@
+gói đã cài sẵn, chỉ cần mở file 6_run_app.bat là được.
+Ảnh để test thì dùng ảnh ở thư mục:
+dataset\test_rotated\
+ứng dụng chưa hỗ trợ nhận diện các ảnh từ bên ngoài
